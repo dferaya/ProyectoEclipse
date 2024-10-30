@@ -5,6 +5,7 @@ public class Prueba2 {
 		System.out.println("Creamos prueba2");
 		System.out.println("Añadimos informacion prueba2");
 		System.out.println("Añadimos mas informacion prueba2");
+		System.out.println("Modificiacion desde master");
 	}
 
 }
